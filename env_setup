@@ -1,6 +1,6 @@
 # Change to elephantsql or whichever host your are using
 # Should not be commited, but exception for this case 
-# Everytime you change this file, you should run `source env_setup`
+# Everytime you change this file, you should run `source env_setup` 
 
 export DB_NAME=uwmavmxp
 export DB_USER=uwmavmxp

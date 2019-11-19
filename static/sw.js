@@ -19,45 +19,45 @@ importScripts('workbox-sw.prod.v1.3.0.js');
  */
 const fileManifest = [
   {
-    "url": "/_nuxt/app.ae8a577bc8597cc4e375.js",
-    "revision": "3bf8b78352ff09540363ce0e977adec3"
+    "url": "/_nuxt/app.f533969acc8fe39b6f74.js",
+    "revision": "27159160b5faf6dbf99582bf39e6d7b6"
   },
   {
     "url": "/_nuxt/common.d588f9e89784c93b7646.js",
     "revision": "c239c764a6a02b9a7719a8fba200263a"
   },
   {
-    "url": "/_nuxt/layouts/default.99a3689e875b9d0926e9.js",
-    "revision": "9f6208307b89fa9af4cac67346ec9b20"
+    "url": "/_nuxt/layouts/default.4719d9a864dd4d3dbd8d.js",
+    "revision": "890981cf5ffae66dfcfdf36284e8eb3e"
   },
   {
-    "url": "/_nuxt/manifest.48c71b10d1719bfa7825.js",
-    "revision": "840d3f5239b3e62fefdce04321949410"
+    "url": "/_nuxt/manifest.6549fedf3bda3e07f740.js",
+    "revision": "abbe5ca723e9d17a26bb5887059ff84b"
   },
   {
-    "url": "/_nuxt/pages/index.cb9087eee956a2c62d03.js",
-    "revision": "5702841bd074bf6731016234302dceaa"
+    "url": "/_nuxt/pages/index.6590354786ffbad2479e.js",
+    "revision": "48f484d2abd77ff2c0169e8f3a01bf83"
   },
   {
-    "url": "/_nuxt/pages/users/_username/index.3af7d904484d518ebe87.js",
-    "revision": "9e510e65b86144b05b21883ca1b0ba99"
+    "url": "/_nuxt/pages/users/_username/index.4e143078a49bd867efab.js",
+    "revision": "a6412ca844a2b6d5a8a1ce763b76d36d"
   },
   {
-    "url": "/_nuxt/pages/users/_username/update.bf41ce0e30762df1c85a.js",
-    "revision": "f12e44c93826bfa31e51e37f6137bcdf"
+    "url": "/_nuxt/pages/users/_username/update.580bcb8f7a9d74980f2b.js",
+    "revision": "1257a8575155a472448899edfb7ebeb6"
   },
   {
-    "url": "/_nuxt/pages/users/add.e043bc0ef46b7d551d33.js",
-    "revision": "280258eed7db2f38c577b571e20d69a1"
+    "url": "/_nuxt/pages/users/add.0f4314036eda995dff1f.js",
+    "revision": "a72fd275e8a15ef20a90e6a6290da208"
   },
   {
-    "url": "/_nuxt/pages/users/index.64be98e22adddef6a8da.js",
-    "revision": "38765c25892e7b33cb02a56b6b4b6276"
+    "url": "/_nuxt/pages/users/index.92f27bd43fb6646e3f52.js",
+    "revision": "ae659cc00b83c3c330e349ef2d6d6e06"
   }
 ];
 
 const workboxSW = new self.WorkboxSW({
-  "cacheId": "demoui_1.0.0",
+  "cacheId": "304demoproject_1.0.0",
   "clientsClaim": true,
   "directoryIndex": "/"
 });
