@@ -3,7 +3,7 @@
     <div class="inner">
       <nav class="navbar__menu">
         <router-link to="/" exact>
-          <img class="logo" src="~/assets/img/happy.png" alt="logo">
+          <img class="logo" src="../assets/img/happy.png" alt="logo">
         </router-link>
         <nuxt-link to="/users">Users</nuxt-link>
         <a class="github" href="https://github.com/kirtanprht/304project/" target="_blank" rel="noopener">
