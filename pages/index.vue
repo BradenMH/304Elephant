@@ -1,9 +1,8 @@
 <template>
   <section class="container">
     <div>
-    <Logo />
       <h1 class="title">
-        Demo Project
+        Car Rental Service
       </h1>
       <div class="links">
         <nuxt-link class="button--grey link" style="margin-left: 15px;" to="/users">View Users</nuxt-link>
