@@ -36,6 +36,9 @@ module.exports = {
       }
     }
   },
+  generate: {
+    fallback: true
+  },
 
   modules: [
     '@nuxtjs/pwa'
