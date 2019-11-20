@@ -19,40 +19,40 @@ importScripts('workbox-sw.prod.v1.3.0.js');
  */
 const fileManifest = [
   {
-    "url": "/_nuxt/app.f533969acc8fe39b6f74.js",
-    "revision": "27159160b5faf6dbf99582bf39e6d7b6"
+    "url": "/_nuxt/app.6cb8458810dae91917d2.js",
+    "revision": "8c385f502b4b33f79c22ee566cd12f61"
   },
   {
     "url": "/_nuxt/common.d588f9e89784c93b7646.js",
     "revision": "c239c764a6a02b9a7719a8fba200263a"
   },
   {
-    "url": "/_nuxt/layouts/default.4719d9a864dd4d3dbd8d.js",
-    "revision": "890981cf5ffae66dfcfdf36284e8eb3e"
+    "url": "/_nuxt/layouts/default.228bdc98ea308657c971.js",
+    "revision": "8e4c4dfaf3f56062bb5a7d4a922f8061"
   },
   {
-    "url": "/_nuxt/manifest.6549fedf3bda3e07f740.js",
-    "revision": "abbe5ca723e9d17a26bb5887059ff84b"
+    "url": "/_nuxt/manifest.deec62703b22c9f9a17c.js",
+    "revision": "6e534145a37d0434499c659d029342af"
   },
   {
-    "url": "/_nuxt/pages/index.6590354786ffbad2479e.js",
-    "revision": "48f484d2abd77ff2c0169e8f3a01bf83"
+    "url": "/_nuxt/pages/index.7dea5db153970361445c.js",
+    "revision": "0db0c12cd65e118121925f4776d9aaa0"
   },
   {
-    "url": "/_nuxt/pages/users/_username/index.4e143078a49bd867efab.js",
-    "revision": "a6412ca844a2b6d5a8a1ce763b76d36d"
+    "url": "/_nuxt/pages/users/_username/index.210d13b3c222446395b5.js",
+    "revision": "bbb83f21d9ee76733e77b3dd78d5732f"
   },
   {
-    "url": "/_nuxt/pages/users/_username/update.580bcb8f7a9d74980f2b.js",
-    "revision": "1257a8575155a472448899edfb7ebeb6"
+    "url": "/_nuxt/pages/users/_username/update.477b19f25bced20d00ee.js",
+    "revision": "510aa3378d9d7da52a3de25994596042"
   },
   {
-    "url": "/_nuxt/pages/users/add.0f4314036eda995dff1f.js",
-    "revision": "a72fd275e8a15ef20a90e6a6290da208"
+    "url": "/_nuxt/pages/users/add.2ce7168c570cabb51a04.js",
+    "revision": "146e272c3076b54ba113bf1a023f7cbd"
   },
   {
-    "url": "/_nuxt/pages/users/index.92f27bd43fb6646e3f52.js",
-    "revision": "ae659cc00b83c3c330e349ef2d6d6e06"
+    "url": "/_nuxt/pages/users/index.3aa2af23175346a6f21e.js",
+    "revision": "c8996c8d3e5a83436f06384a24f31807"
   }
 ];
 
